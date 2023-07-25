@@ -1,0 +1,78 @@
+body{
+    background-color: aqua;
+}
+nav{
+    background-color: antiquewhite;
+    text-align: center;
+    height: 50px;
+    width: auto;
+    text-align: center;
+    text-decoration: solid white;
+    font-size: 32px;
+    font-style: italic;
+    
+
+}
+.cal{
+    margin-top: 10px;
+    background-color: green;
+    text-align: center;
+    margin: auto;
+    border-radius: 4px;
+    width: 250px;
+    height: 360px;
+}
+
+
+ .button input{
+
+    border: 0;
+    color: hsl(0, 57%, 37%);
+    background-color: 4px;
+    width: 60px;
+    height: 50px;
+   
+    font-size: 20px;
+    
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+    
+    box-shadow: 0 4px rgba(0,0,0,0.5);
+    margin-left: -3px;
+    
+}
+
+.cal  button{
+    border: 0;
+    color: #504969;
+    background-color: 4px;
+    width: 60px;
+    height: 50px;
+    font-size: 20px;
+    box-shadow: 0 4px rgba(0,0,0,0.2);
+
+    margin-left: -3px;
+}
+
+.equal{
+    float: right;
+   
+}
+.equal input{
+    height: 205px;
+    width: 61px;
+    margin-right: 4px;
+ margin-left: -6px;
+ box-shadow: 0 4px rgba(0,0,0,0.2);
+}
+
+.Ans{
+   background-color: whitesmoke;
+   height: 40px;
+   width: auto; 
+   
+}
+header{
+    margin-top: 50px;
+    font-size: 26px;
+}
